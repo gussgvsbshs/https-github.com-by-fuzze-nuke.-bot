@@ -10,7 +10,6 @@
 
 ***
 # Preview
-![](https://media.discordapp.net/attachments/744606263811506176/798978368510885928/unknown.png?width=452&height=567)
 
 ***
 # Installation:
@@ -20,17 +19,17 @@ apt update && apt upgrade
 
 pkg install python git
 
-git clone https://github.com/Sigma-cc/Discord-Nuke-Bot
+git clone https://github.com-by-fuzze-nuke.-bot
 
-cd Discord-Nuke-Bot
+cd nuke-d
 
 python -m pip install -r requirements.txt
 
-python nuke-bot.py
+python nuke-d.py
 ```
 **[Subsequent launches]**
 ```console
-cd Discord-Nuke-Bot
+cd nuke-d
 
 python nuke-bot.py
 ```
@@ -38,11 +37,11 @@ python nuke-bot.py
 ```console
 git clone https://github.com/Sigma-cc/Discord-Nuke-Bot
 
-cd Discord-Nuke-Bot
+cd nuke-d
 
 python -m pip install -r requirements.txt
 
-python3 nuke-bot.py
+python3 nuke-d.py
 ```
 
 ***
